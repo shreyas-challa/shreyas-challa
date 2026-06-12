@@ -17,8 +17,8 @@
 ## 🛡️ Security Research: CVEs
 | CVE | Vulnerability | Links |
 |-----|---------------|-------|
-| **CVE-2026-46394** | OS command injection in HAXcms `Git.php` (CWE-78) | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-46394) · [PoC & Writeup](https://github.com/shreyas-challa/CVE-2026-46394-haxcms-git-command-injection) |
-| **CVE-2026-46395** | Unauthenticated private key disclosure via broken HMAC in HAXcms Node.js (CWE-321/CWE-200) | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-46395) · [PoC & Writeup](https://github.com/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak) |
+| **CVE&#8209;2026&#8209;46394** | OS command injection in HAXcms `Git.php` (CWE-78) | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-46394) · [PoC & Writeup](https://github.com/shreyas-challa/CVE-2026-46394-haxcms-git-command-injection) |
+| **CVE&#8209;2026&#8209;46395** | Unauthenticated private key disclosure via broken HMAC in HAXcms Node.js (CWE-321/CWE-200) | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-46395) · [PoC & Writeup](https://github.com/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak) |
 
 ## 📫 Find Me At
 <p>
