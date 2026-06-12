@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a2e,100:16213e&animation=fadeIn&section=header&text=shreyas&fontColor=00e5ff&fontSize=70&fontAlignY=38&desc=security%20research%20%C2%B7%20systems%20%C2%B7%20offense&descAlignY=55&descSize=18" alt="banner">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a2e,100:16213e&animation=fadeIn&section=header&height=220&text=Shreyas%20Challa&fontColor=00e5ff&fontSize=55&fontAlignY=32&desc=offensive%20security%20%C2%B7%20software%20engineering&descAlignY=52&descSize=17" alt="banner">
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Penn+State;CCSO+Team+Captain;CVE+Hunter+%C2%B7+2x+CVEs+in+HAXcms;Breaking+things+to+understand+them" alt="typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Penn+State;Red+Team+Captain+%40+CCSO;Security+Researcher+with+2+published+CVEs" alt="typing intro">
 </p>
 
 ## 🧑‍💻 About Me
