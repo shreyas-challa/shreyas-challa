@@ -7,31 +7,28 @@
 </p>
 
 ## 🧑‍💻 About Me
-- 🎓 Computer Science @ Pennsylvania State University
-- 🚩 Team Captain @ CCSO (Penn State Competitive Cyber Security Organization) <!-- TODO: confirm exact title/team (Red? Blue? RvB?) -->
-- 🔍 Security researcher — 2 published CVEs in HAXcms
-- ✍️ I write about my research on the [Noigel Blog](https://shreyas-challa.github.io)
+- 🎓 Computer Science and Cybersecurity @ Pennsylvania State University
+- 🚩 Red Team Captain @ Penn State Competitive Cyber Security Organization
+- 🔍 Security researcher with 2 published CVEs in HAXcms
+- ✍️ I write about my thoughts and findings on my [Noigel Blog](https://shreyas-challa.github.io)
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash,powershell,linux,git,docker,llvm,kali&theme=dark" alt="skills">
 </p>
 
-## 🛡️ Security Research — CVEs
+## 🛡️ Security Research: CVEs
 | CVE | Vulnerability | Links |
 |-----|---------------|-------|
 | **CVE-2026-46394** | OS command injection in HAXcms `Git.php` (CWE-78) | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-46394) · [PoC & Writeup](https://github.com/shreyas-challa/CVE-2026-46394-haxcms-git-command-injection) |
 | **CVE-2026-46395** | Unauthenticated private key disclosure via broken HMAC in HAXcms Node.js (CWE-321/CWE-200) | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-46395) · [PoC & Writeup](https://github.com/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak) |
 
-## 🚩 CCSO
-<!-- TODO: fill in captaincy details — role, what you run/teach, competition results (CPTC/CCDC/ISTS/etc.) -->
-- Team Captain — leading Red vs Blue internal competitions ([ccso-tools](https://github.com/shreyas-challa/ccso-tools))
 
 ## 🛠️ Featured Projects
-- **[xia](https://github.com/shreyas-challa/xia)** `Rust` — a programming language with Pythonic syntax, ARC memory management, and LLVM-compiled native binaries
-- **[lacuna](https://github.com/shreyas-challa/lacuna)** `Python` — AI-powered autonomous penetration-testing agent: multi-backend LLM support driving enumeration → exploitation → privesc, with real-time attack graph visualization
-- **[wifie](https://github.com/shreyas-challa/wifie)** `Rust` — wireless pentesting console for Wi-Fi 6/6E/7 audit work — drives `nl80211` and `pcap` directly, no airmon-ng wrappers, browser-based telemetry on `<canvas>`
-- **[fitrack](https://github.com/shreyas-challa/fitrack)** `Swift` — iOS workout tracker for hybrid training (PPL lifts + Z2/interval cardio), SwiftUI + SwiftData, zero third-party dependencies
-- **[ccso-tools](https://github.com/shreyas-challa/ccso-tools)** `Python` — scripts and tooling for CCSO's internal Red vs Blue competition
+- **[xia](https://github.com/shreyas-challa/xia)** `Rust` - a programming language with Pythonic syntax, ARC memory management, and LLVM-compiled native binaries
+- **[lacuna](https://github.com/shreyas-challa/lacuna)** `Python` - AI-powered autonomous penetration-testing agent: multi-backend LLM support driving enumeration → exploitation → privesc, with real-time attack graph visualization
+- **[wifie](https://github.com/shreyas-challa/wifie)** `Rust` - wireless pentesting console for Wi-Fi 6/6E/7 audit work. Drives `nl80211` and `pcap` directly, no airmon-ng wrappers, browser-based telemetry on `<canvas>`
+- **[fitrack](https://github.com/shreyas-challa/fitrack)** `Swift` - iOS workout tracker for hybrid training (PPL lifts + Z2/interval cardio), SwiftUI + SwiftData, zero third-party dependencies
+- **[ccso-tools](https://github.com/shreyas-challa/ccso-tools)** `Python` - scripts and tooling for CCSO's internal Red vs Blue competition
 
 ## 📫 Find Me At
 <p>
