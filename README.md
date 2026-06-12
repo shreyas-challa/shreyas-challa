@@ -20,12 +20,6 @@
 | **CVE-2026-46394** | OS command injection in HAXcms `Git.php` (CWE-78) | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-46394) · [PoC & Writeup](https://github.com/shreyas-challa/CVE-2026-46394-haxcms-git-command-injection) |
 | **CVE-2026-46395** | Unauthenticated private key disclosure via broken HMAC in HAXcms Node.js (CWE-321/CWE-200) | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-46395) · [PoC & Writeup](https://github.com/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak) |
 
-
-## 🛠️ Featured Projects
-- **[xia](https://github.com/shreyas-challa/xia)** `Rust` - a programming language with Pythonic syntax, ARC memory management, and LLVM-compiled native binaries
-- **[lacuna](https://github.com/shreyas-challa/lacuna)** `Python` - AI-powered autonomous penetration-testing agent: multi-backend LLM support driving enumeration → exploitation → privesc, with real-time attack graph visualization
-- **[wifie](https://github.com/shreyas-challa/wifie)** `Rust` - wireless pentesting console for Wi-Fi 6/6E/7 audit work. Drives `nl80211` and `pcap` directly, no airmon-ng wrappers, browser-based telemetry on `<canvas>`
-- **[fitrack](https://github.com/shreyas-challa/fitrack)** `Swift` - iOS workout tracker for hybrid training (PPL lifts + Z2/interval cardio), SwiftUI + SwiftData, zero third-party dependencies
 ## 📫 Find Me At
 <p>
     <a href="https://shreyas-challa.github.io" target="_blank"><img alt="Blog" src="https://img.shields.io/static/v1?style=for-the-badge&message=Noigel+Blog&color=0a1612&logo=hashnode&logoColor=00ff41&label="></a>
