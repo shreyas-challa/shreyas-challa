@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1612,100:0f2920&animation=fadeIn&section=header&height=220&text=Shreyas%20Challa&fontColor=00ff41&fontSize=55&fontAlignY=32&desc=offensive%20security%20%C2%B7%20software%20engineering&descAlignY=52&descSize=17" alt="banner">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:161b22&animation=fadeIn&section=header&height=160&text=Shreyas%20Challa&fontColor=00ff41&fontSize=50&fontAlignY=40&desc=offensive%20security%20%C2%B7%20software%20engineering&descAlignY=66&descSize=16" alt="banner">
 </p>
 
 <p align="center">
@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2920,50:0a1612,100:000000&section=footer" alt="footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:000000&section=footer" alt="footer">
 </p>
