@@ -1,9 +1,7 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:161b22&animation=fadeIn&section=header&height=160&text=Shreyas%20Challa&fontColor=00ff41&fontSize=50&fontAlignY=40&desc=offensive%20security%20%C2%B7%20software%20engineering&descAlignY=66&descSize=16" alt="banner">
-</p>
-
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Penn+State;Red+Team+Captain+%40+CCSO;Security+Researcher+with+2+published+CVEs" alt="typing intro">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:161b22&animation=fadeIn&section=header&height=130&text=Shreyas%20Challa&fontColor=00ff41&fontSize=48&fontAlignY=42&desc=offensive%20security%20%C2%B7%20software%20engineering&descAlignY=78&descSize=15" alt="banner">
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&height=40&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Penn+State;Red+Team+Captain+%40+CCSO;Security+Researcher+with+2+published+CVEs" alt="typing intro">
 </p>
 
 ## 🧑‍💻 About Me
