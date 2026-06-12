@@ -24,8 +24,6 @@
 <p>
     <a href="https://shreyas-challa.github.io" target="_blank"><img alt="Blog" src="https://img.shields.io/static/v1?style=for-the-badge&message=Noigel+Blog&color=0a1612&logo=hashnode&logoColor=00ff41&label="></a>
     <a href="mailto:spc6394@psu.edu" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=spc6394@psu.edu&color=0f2920&logo=gmail&logoColor=00ff41&label="></a>
-</p>
-
-<p align="center">
+    <br>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:000000&section=footer&height=70" alt="footer">
 </p>
