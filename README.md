@@ -13,7 +13,7 @@
 - ✍️ I write about my thoughts and findings on my [Noigel Blog](https://shreyas-challa.github.io)
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash,powershell,linux,git,docker,llvm,kali&theme=dark" alt="skills">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,nodejs,bash,powershell,linux,git,docker,kali&theme=dark" alt="skills">
 </p>
 
 ## 🛡️ Security Research: CVEs
