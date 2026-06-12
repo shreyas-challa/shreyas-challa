@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:000000&section=footer" alt="footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:000000&section=footer&height=100" alt="footer">
 </p>
