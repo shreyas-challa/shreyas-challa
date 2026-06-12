@@ -26,20 +26,17 @@
 <!-- TODO: fill in captaincy details — role, what you run/teach, competition results (CPTC/CCDC/ISTS/etc.) -->
 - Team Captain — leading Red vs Blue internal competitions ([ccso-tools](https://github.com/shreyas-challa/ccso-tools))
 
-## 🛠️ Things I've Built
-- **[xia](https://github.com/shreyas-challa/xia)** — a programming language with Pythonic syntax, ARC memory management, and LLVM-compiled native binaries
-- **[ccso-tools](https://github.com/shreyas-challa/ccso-tools)** — scripts and tooling for CCSO's internal Red vs Blue competition
-- **[Local-Search-Engine](https://github.com/shreyas-challa/Local-Search-Engine)** — CLI search across my Obsidian vault
+## 🛠️ Featured Projects
+- **[xia](https://github.com/shreyas-challa/xia)** `Rust` — a programming language with Pythonic syntax, ARC memory management, and LLVM-compiled native binaries
+- **[lacuna](https://github.com/shreyas-challa/lacuna)** `Python` — AI-powered autonomous penetration-testing agent: multi-backend LLM support driving enumeration → exploitation → privesc, with real-time attack graph visualization
+- **[wifie](https://github.com/shreyas-challa/wifie)** `Rust` — wireless pentesting console for Wi-Fi 6/6E/7 audit work — drives `nl80211` and `pcap` directly, no airmon-ng wrappers, browser-based telemetry on `<canvas>`
+- **[fitrack](https://github.com/shreyas-challa/fitrack)** `Swift` — iOS workout tracker for hybrid training (PPL lifts + Z2/interval cardio), SwiftUI + SwiftData, zero third-party dependencies
+- **[ccso-tools](https://github.com/shreyas-challa/ccso-tools)** `Python` — scripts and tooling for CCSO's internal Red vs Blue competition
 
 ## 📫 Find Me At
 <p>
     <a href="https://shreyas-challa.github.io" target="_blank"><img alt="Blog" src="https://img.shields.io/static/v1?style=for-the-badge&message=Noigel+Blog&color=0f0c29&logo=hashnode&logoColor=00e5ff&label="></a>
     <a href="mailto:spc6394@psu.edu" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=spc6394@psu.edu&color=16213e&logo=gmail&logoColor=00e5ff&label="></a>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shreyas-challa&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-challa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages">
 </p>
 
 <p align="center">
