@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a2e,100:16213e&animation=fadeIn&section=header&height=220&text=Shreyas%20Challa&fontColor=00e5ff&fontSize=55&fontAlignY=32&desc=offensive%20security%20%C2%B7%20software%20engineering&descAlignY=52&descSize=17" alt="banner">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1612,100:0f2920&animation=fadeIn&section=header&height=220&text=Shreyas%20Challa&fontColor=00ff41&fontSize=55&fontAlignY=32&desc=offensive%20security%20%C2%B7%20software%20engineering&descAlignY=52&descSize=17" alt="banner">
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Penn+State;Red+Team+Captain+%40+CCSO;Security+Researcher+with+2+published+CVEs" alt="typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Penn+State;Red+Team+Captain+%40+CCSO;Security+Researcher+with+2+published+CVEs" alt="typing intro">
 </p>
 
 ## 🧑‍💻 About Me
@@ -30,10 +30,10 @@
 - **[fitrack](https://github.com/shreyas-challa/fitrack)** `Swift` - iOS workout tracker for hybrid training (PPL lifts + Z2/interval cardio), SwiftUI + SwiftData, zero third-party dependencies
 ## 📫 Find Me At
 <p>
-    <a href="https://shreyas-challa.github.io" target="_blank"><img alt="Blog" src="https://img.shields.io/static/v1?style=for-the-badge&message=Noigel+Blog&color=0f0c29&logo=hashnode&logoColor=00e5ff&label="></a>
-    <a href="mailto:spc6394@psu.edu" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=spc6394@psu.edu&color=16213e&logo=gmail&logoColor=00e5ff&label="></a>
+    <a href="https://shreyas-challa.github.io" target="_blank"><img alt="Blog" src="https://img.shields.io/static/v1?style=for-the-badge&message=Noigel+Blog&color=0a1612&logo=hashnode&logoColor=00ff41&label="></a>
+    <a href="mailto:spc6394@psu.edu" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=spc6394@psu.edu&color=0f2920&logo=gmail&logoColor=00ff41&label="></a>
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0c29&section=footer" alt="footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2920,50:0a1612,100:000000&section=footer" alt="footer">
 </p>
